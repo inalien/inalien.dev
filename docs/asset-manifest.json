@@ -1,27 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.ab764e7b.chunk.css",
-    "main.js": "./static/js/main.69737777.chunk.js",
-    "main.js.map": "./static/js/main.69737777.chunk.js.map",
+    "main.css": "./static/css/main.46265ce6.chunk.css",
+    "main.js": "./static/js/main.76607417.chunk.js",
+    "main.js.map": "./static/js/main.76607417.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.b5442dbe.js",
     "runtime-main.js.map": "./static/js/runtime-main.b5442dbe.js.map",
-    "static/js/2.cfde4dbf.chunk.js": "./static/js/2.cfde4dbf.chunk.js",
-    "static/js/2.cfde4dbf.chunk.js.map": "./static/js/2.cfde4dbf.chunk.js.map",
+    "static/js/2.01c43eaf.chunk.js": "./static/js/2.01c43eaf.chunk.js",
+    "static/js/2.01c43eaf.chunk.js.map": "./static/js/2.01c43eaf.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.4ed02f79b466f502d3d7320eb5ebb554.js": "./precache-manifest.4ed02f79b466f502d3d7320eb5ebb554.js",
+    "precache-manifest.6d6eee8e3ba39f4b2c79850b58f7dca5.js": "./precache-manifest.6d6eee8e3ba39f4b2c79850b58f7dca5.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.ab764e7b.chunk.css.map": "./static/css/main.ab764e7b.chunk.css.map",
-    "static/js/2.cfde4dbf.chunk.js.LICENSE.txt": "./static/js/2.cfde4dbf.chunk.js.LICENSE.txt",
-    "static/media/2560px-Katalon-logo-vector.svg.png": "./static/media/2560px-Katalon-logo-vector.svg.ddda3859.png",
+    "static/css/main.46265ce6.chunk.css.map": "./static/css/main.46265ce6.chunk.css.map",
+    "static/js/2.01c43eaf.chunk.js.LICENSE.txt": "./static/js/2.01c43eaf.chunk.js.LICENSE.txt",
     "static/media/J.I.Logo.png": "./static/media/J.I.Logo.cb12675e.png",
     "static/media/JhonInalienFullPicSmall8.png": "./static/media/JhonInalienFullPicSmall8.10edba13.png",
-    "static/media/JhonInalienHalfPicSmall8.png": "./static/media/JhonInalienHalfPicSmall8.55d0664d.png",
-    "static/media/Selenium_Logo.png": "./static/media/Selenium_Logo.1c6a3bfc.png"
+    "static/media/JhonInalienHalfPicSmall8.png": "./static/media/JhonInalienHalfPicSmall8.55d0664d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b5442dbe.js",
-    "static/js/2.cfde4dbf.chunk.js",
-    "static/css/main.ab764e7b.chunk.css",
-    "static/js/main.69737777.chunk.js"
+    "static/js/2.01c43eaf.chunk.js",
+    "static/css/main.46265ce6.chunk.css",
+    "static/js/main.76607417.chunk.js"
   ]
 }
