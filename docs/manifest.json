@@ -1,6 +1,6 @@
 {
   "short_name": "Jhon Inalien",
-  "name": "Jhon Inalien's Portfolio",
+  "name": "Jhon Inalien | Web Developer",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,12 +8,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "JhonInalienIcon.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "JhonInalienIcon.png",
       "type": "image/png",
       "sizes": "512x512"
     }
@@ -21,5 +21,5 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ff0000"
 }
